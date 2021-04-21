@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
     subtitle: |
       ### La blockchain. Cos'è e le sue applicazioni.
     image: images/avatar.png
