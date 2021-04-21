@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
-content_img_path: images/IMG_20210329_173721.jpg
+content_img_path: images/blockchain_school_canvas_low.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
