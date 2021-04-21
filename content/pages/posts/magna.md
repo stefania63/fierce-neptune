@@ -4,7 +4,8 @@ subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Nel 2009 il giapponese Satoshi Nakamoto scrive il codice della blockchain. Un
   aura di mistero avvolge Satoshi perchè ancora oggi non si sa chi sia.In ogni
-  caso il suo rivoluzionario sistema di
+  caso la sua rivoluzionaria base di dati ha cambiato la filosofia alla base
+  delle transazioni finanziarie e dei rappori
 date: '2016-09-04'
 thumb_img_path: images/blockchain_school_canvas_low.jpg
 thumb_img_alt: Geometric pattern
