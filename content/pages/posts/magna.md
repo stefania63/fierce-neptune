@@ -2,9 +2,9 @@
 title: Storia della blockchain
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+  Nel 2009 il giapponese Satoshi Nakamoto scrive il codice della blockchain. Un
+  aura di mistero avvolge Satoshi perchè ancora oggi non si sa chi sia.In ogni
+  caso il suo rivoluzionario sistema di
 date: '2016-09-04'
 thumb_img_path: images/blockchain_school_canvas_low.jpg
 thumb_img_alt: Geometric pattern
